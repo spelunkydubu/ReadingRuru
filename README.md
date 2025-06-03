@@ -6,3 +6,5 @@
 ## Please note , dependencies include python3 and tkinter! 
 
 ## Thank you for using my app! 
+
+### Please feel free to contact me about changes you would like to see , spelunkytheclunky@gmail.com 
