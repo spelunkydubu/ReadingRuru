@@ -1,5 +1,6 @@
 
-[Screencast_20250603_044848.webm](https://github.com/user-attachments/assets/ced13f37-dcf9-447d-b944-b113486859ea)
+[Screencast_20250603_191833.webm](https://github.com/user-attachments/assets/07e14a6f-c335-49bd-ac3f-45262bc47ad2)
+
 
 ## 🥳🥳🥳 A reading ruler!! 
 
@@ -9,7 +10,7 @@
 
 ![icon](https://github.com/user-attachments/assets/104c7b0b-c47e-43d3-ae54-5cc17070a721)
 
-# as per the github of customtkinter ||
+# As per the github of customtkinter:
 
 MIT License
 
