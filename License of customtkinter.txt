@@ -1,4 +1,4 @@
-The license of custom tkinter :::
+The license of customtkinter :::
 
 MIT License
 
