@@ -4,7 +4,7 @@
 
 ## 🥳🥳🥳 A reading ruler!! 
 
-## 📝 Please note , dependencies include python3 and customtkinter! 
+## 📝 Please note , dependencies include python3 , tkinter , and customtkinter! 
 
 ## 🤩 Thank you for using my app! 
 
